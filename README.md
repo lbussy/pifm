@@ -1,12 +1,4 @@
-```diff
-- Note: this project is no longer maintained
-```
-
-## UPDATE
-
-~~### https://github.com/richardghirst/PiBits/blob/master/PiFmDma/PiFmDma.c presents a rewrite using DMA, which uses much less CPU than this version. Please use that version in preference.~~
-
-This has been updated by the original authors to use DMA, as well as allow tuning and stereo.  Richard Hirst is no longer maintaining PiBits, and refers users to this solution.
+Forked from [rm-hull/pifm](https://github.com/rm-hull/pifm) which was a copy of [Turning the Raspberry Pi Into an FM Transmitter](http://www.icrobotics.co.uk/wiki/index.php/Turning_the_Raspberry_Pi_Into_an_FM_Transmitter)
 
 ## Turning the Raspberry Pi Into an FM Transmitter
 
